@@ -1,11 +1,40 @@
-
-.cabeçalho {
-    background-color:rgb(221, 255, 233);
-    width="50";
+* {
+  margin:0;
+  padding: 0;
 }
 
+.cabecalho {
+    background-color:lightgoldenrodyellow;
+    width:200px;
+    margin: auto;
+    
+}
+.cabecalho-conteiner {
+  background-color:lightgoldenrodyellow;
+}
+
+.indice ul {
+  color: palevioletred;
+display:inline-block;
+padding-left: 35%;
+}
+
+.indice li {
+display: inline-block;
+padding-right: 20px;
+}
+
+.bemvindo {
+  background-color:rgb(232, 252, 244);
+}
+.cabecalho img {
+  width: 200px;
+}
+ 
+
+
 .titulo {
-    <strong>
+  color:indianred;
 }
 
 h2{
