@@ -31,26 +31,20 @@ padding-right: 20px;
   width: 200px;
 }
  
+. h1 {
 
-
-.titulo {
-  color:indianred;
 }
-
-h2{
-color: rgb(106, 106, 255);
+.h2 {
+text-align:center;
+color: indianred;
 }
 
-{
-  background-color: rgb(255, 400, 200);
+.bemvinda img {
+  width: 120px;
 }
 
-#meu-titulo {
-  color: indianred;
+.sobremim {
+background-color: rgb(255, 243, 252);
+color: indianred;
 }
-h1{
-  front-size:80px;
-}
-p {
-  front-family: cursive
-}
+
